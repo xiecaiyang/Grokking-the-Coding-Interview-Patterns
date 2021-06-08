@@ -17,7 +17,12 @@ int main() {
 
 	//-----------02 Pattern Two Pointers-----------
 	//pair_with_target_sum();
-	remove_duplicates();
+	//remove_duplicates();
+	//squaring_a_sorted_array();
+	//triplet_sum_to_zero();
+	//triplet_sum_close_to_target();
+	//triplets_with_smaller_sum();
+	subarrays_with_product_less_than_a_target();
 
 	return 0;
 }
