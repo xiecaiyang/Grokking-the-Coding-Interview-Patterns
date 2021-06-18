@@ -16,7 +16,7 @@ Explanation: The first two elements after removing the duplicates will be [2, 11
 #include <algorithm>
 #include <string>
 #include <unordered_map>
-#include "pattern_two_pointers.hpp"
+#include "pattern02_two_pointers.hpp"
 using namespace std;
 
 static int solver(vector<int>& nums) {

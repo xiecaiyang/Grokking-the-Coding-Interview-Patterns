@@ -18,7 +18,7 @@ This can be done if we start with the second letter: ['B', 'C', 'B', 'B', 'C'] *
 #include <stdlib.h>
 #include <algorithm>
 #include <unordered_map>
-#include "pattern_sliding_window.hpp"
+#include "pattern01_sliding_window.hpp"
 using namespace std;
 
 static int solver(vector<char>& nums) {

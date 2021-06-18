@@ -22,7 +22,22 @@ int main() {
 	//triplet_sum_to_zero();
 	//triplet_sum_close_to_target();
 	//triplets_with_smaller_sum();
-	subarrays_with_product_less_than_a_target();
+	//subarrays_with_product_less_than_a_target();
+	//quadruple_sum_to_target();
+	//comparing_strings_containing_backspaces();
+	//minimum_window_sort();
+
+	//-----------03 Pattern Fast Slow Pointers-----------
+	// TO DO---
+
+	//-----------04 Pattern Merge Intervals-----------
+	//merge_intervals();
+	//insert_interval();
+	//intervals_intersection();
+	//conflicting_appointments();
+	//minimum_meeting_rooms();
+	//maximum_cpu_load();
+	employee_free_time();
 
 	return 0;
 }

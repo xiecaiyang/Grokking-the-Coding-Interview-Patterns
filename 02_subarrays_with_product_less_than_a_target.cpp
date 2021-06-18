@@ -18,7 +18,7 @@ Explanation: There are seven contiguous subarrays whose product is less than the
 #include <algorithm>
 //#include <string>
 //#include <unordered_map>
-#include "pattern_two_pointers.hpp"
+#include "pattern02_two_pointers.hpp"
 using namespace std;
 
 static vector<vector<int>> solver(vector<int>& nums, int& target) {
