@@ -20,7 +20,7 @@ Explanation: The longest substrings with no more than '3' distinct characters ar
 #include <algorithm>
 #include <string>
 #include <unordered_map>
-#include "pattern_sliding_window.hpp"
+#include "pattern01_sliding_window.hpp"
 using namespace std;
 
 static int solver(string& ss, int K) {

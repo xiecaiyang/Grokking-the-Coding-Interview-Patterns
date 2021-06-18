@@ -15,7 +15,7 @@ Output: [0 1 1 4 9]
 //#include <algorithm>
 //#include <string>
 //#include <unordered_map>
-#include "pattern_two_pointers.hpp"
+#include "pattern02_two_pointers.hpp"
 using namespace std;
 
 static vector<int> solver(vector<int>& nums) {

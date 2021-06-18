@@ -17,7 +17,7 @@ Explanation: The numbers at index 0 and 2 add up to 11: 2+9=11*/
 #include <algorithm>
 #include <string>
 #include <unordered_map>
-#include "pattern_two_pointers.hpp"
+#include "pattern02_two_pointers.hpp"
 using namespace std;
 
 static vector<int> solver(vector<int>& nums, int target) {

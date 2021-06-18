@@ -2,7 +2,9 @@
 #ifndef _HEADER_
 #define _HEADER_
 
-#include "pattern_sliding_window.hpp"
-#include "pattern_two_pointers.hpp"
+#include "pattern01_sliding_window.hpp"
+#include "pattern02_two_pointers.hpp"
+#include "pattern03_fast_slow_pointers.hpp"
+#include "pattern04_merge_intervals.hpp"
 
 #endif

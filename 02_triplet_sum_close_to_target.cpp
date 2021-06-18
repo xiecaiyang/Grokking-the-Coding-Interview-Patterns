@@ -22,7 +22,7 @@ Explanation: The triplet [1, 1, 1] has the closest sum to the target.
 #include <algorithm>
 //#include <string>
 //#include <unordered_map>
-#include "pattern_two_pointers.hpp"
+#include "pattern02_two_pointers.hpp"
 using namespace std;
 
 static int solver(vector<int>& nums, int& target) {

@@ -18,7 +18,7 @@ Explanation: Smallest subarrays with a sum greater than or equal to '8' are [3, 
 #include <iostream>
 #include <stdlib.h>
 #include <algorithm>
-#include "pattern_sliding_window.hpp"
+#include "pattern01_sliding_window.hpp"
 using namespace std;
 
 static int solver(vector<int>& nums, int S) {

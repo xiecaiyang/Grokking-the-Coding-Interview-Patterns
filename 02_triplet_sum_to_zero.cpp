@@ -17,7 +17,7 @@ Explanation: There are two unique triplets whose sum is equal to zero.
 #include <algorithm>
 //#include <string>
 //#include <unordered_map>
-#include "pattern_two_pointers.hpp"
+#include "pattern02_two_pointers.hpp"
 using namespace std;
 
 static vector<vector<int>> solver(vector<int>& nums) {
