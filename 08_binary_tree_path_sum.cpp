@@ -8,7 +8,7 @@ find if the tree has a path from root-to-leaf such that the sum of all the node 
 #include <iostream>
 #include <stdlib.h>
 #include <algorithm>
-#include "pattern07_tree_breadth_first_search.hpp"
+#include "pattern08_tree_depth_first_search.hpp"
 #include "TreeNode.hpp"
 using namespace std;
 
