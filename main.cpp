@@ -63,6 +63,9 @@ int main() {
 	//-----------08 Pattern Tree Depth First Search-----------
 	//binary_tree_path_sum();
 	//all_paths_for_a_sum();
+	//sum_of_path_numbers();
+	//path_with_given_sequence();
+	//count_paths_for_a_sum();
 	//tree_diameter();
 	path_with_maximum_sum();
 
